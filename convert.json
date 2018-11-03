@@ -1,0 +1,19 @@
+{
+    "item":[
+       {
+        "itemId"   :"1234" ,
+        "itemName" :"sabun",
+        "price"    :"5000"
+       }
+    ],
+    "ratings": 
+        [
+            {
+                "rater" : "akmal"
+            },
+            {
+                "rater" : "akmal"
+            }
+        ],
+    "color": ["brown", "black"]
+}
